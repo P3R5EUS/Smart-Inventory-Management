@@ -1,0 +1,7 @@
+arch
+statsmodels
+numpy
+pandas
+scikit-learn
+streamlit
+matplotlib
